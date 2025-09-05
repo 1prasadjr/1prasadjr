@@ -1,5 +1,5 @@
-# 💫 About Me:
-Parallel Dimension 
+
+                                                                                                       Parallel Dimension 
 
 
 ## 🌐 Socials:

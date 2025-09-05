@@ -1,5 +1,4 @@
-
-                                                                                                       Parallel Dimension 
+Parallel Dimension 
 
 
 ## 🌐 Socials:

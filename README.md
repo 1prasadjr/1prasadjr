@@ -11,4 +11,4 @@ Parallel Universe :) <br>AI-native Software Engineer with hands-on experience bu
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=1prasadjr&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=1prasadjr&icon=0&color=blue)](https://visitcount.itsvg.in)

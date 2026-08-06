@@ -1,6 +1,6 @@
 Parallel Universe :) 
 
-<p align="center">I am <br><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&pause=1000&color=Red&center=true&vCenter=true&width=230&lines=Prasad+Kanchar" alt="prasad kanchar typed" /></a><br> AIE/SDE </p>
+<p align="center">I am <br><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&pause=1000&color=red&center=true&vCenter=true&width=230&lines=PRASAD+KANCHAR" alt="prasad kanchar typed" /></a><br> AIE/SDE </p>
 
 AI-native Software Engineer with hands-on experience building production-oriented web platforms, AI-assisted workflows, and intelligent<br>automation systems. Strong foundation in backend architecture, data -driven product development, and user-facing application delivery. 
 

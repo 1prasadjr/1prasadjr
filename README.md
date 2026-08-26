@@ -1,6 +1,6 @@
-Parallel Universe :) 
+<samp>Parallel Universe :)</samp>
 
-<p align="center"> <br><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&pause=1000&color=ff007f&center=true&vCenter=true&width=280&lines=Prasad+Jr." alt="prasad jr" /></a><br> AIE | SDE </p>
+<p align="center"> <br><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&pause=1000&color=7f00ff&center=true&vCenter=true&width=280&lines=Prasad+Jr." alt="prasad jr" /></a><br> AIE | SDE </p>
 
 <img src="./hd-about.svg" width="700" alt="about"/>
 
@@ -9,7 +9,7 @@ Parallel Universe :)
 
 <img src="./hd-stack.svg" width="700" alt="stack"/>
 
-<samp>Javascript &nbsp; Typescript &nbsp; Python &nbsp; RestAPI &nbsp; PostgresSQL &nbsp; Vector DB &nbsp; Vercel &nbsp; AWS &nbsp; GCP &nbsp; Git &nbsp; ReactJS &nbsp; NodeJS</samp>
+<samp>Javascript &nbsp; Typescript &nbsp; Python &nbsp; ReactJS &nbsp; NodeJS &nbsp; RestAPI &nbsp; PostgresSQL &nbsp; Vector DB &nbsp; Vercel &nbsp; AWS &nbsp; GCP &nbsp; Git</samp>
 
 
 <img src="./hd-stats.svg" width="700" alt="stats"/>
@@ -27,5 +27,5 @@ Parallel Universe :)
 </div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=1prasadjr&icon=0&color=green)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=1prasadjr&icon=0&color=7f00ff)](https://visitcount.itsvg.in)
 

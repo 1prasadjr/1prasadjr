@@ -76,7 +76,10 @@ def face(filename, weight):
     also what pins the advance width — the portrait's grid assumes 0.600 em, and
     a viewer whose default monospace is narrower would otherwise see it squeezed.
     """
-    with open(os.path.join(FONT_DIR, filename), "rb") as f:
+    path = os.path.join(FONT_DIR, filename)
+    if not os.path.isfile(path):
+        return ""
+    with open(path, "rb") as f:
         b64 = base64.b64encode(f.read()).decode("ascii")
     return (f"@font-face{{font-family:JBMono;font-style:normal;"
             f"font-weight:{weight};font-display:block;"

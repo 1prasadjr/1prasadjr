@@ -15,7 +15,7 @@ the edge. Motion is SMIL because GitHub strips <script> from READMEs.
 
 Env:
   GITHUB_TOKEN  required
-  GH_LOGIN      user to summarise 
+  GH_LOGIN      user to summarise (default: raptor7197)
   OUT_DIR       where to write (default: repository root)
 """
 import base64

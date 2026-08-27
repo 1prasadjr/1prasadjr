@@ -16,13 +16,14 @@
 <div align="center">
   <br>
   <img src="./stats.svg" width="700" alt="Contributions in the last year"/>
-  <br/>
+  <br>
   <br>
   <img src="./streak.svg" width="700" alt="Current and longest streak"/>
-  <br/>
+  <br>
   <br>
   <img src="./langs.svg" width="700" alt="Top languages by bytes and by repo"/>
-  <br/>
+  <br>
+  <br>
 </div>
 
 ---

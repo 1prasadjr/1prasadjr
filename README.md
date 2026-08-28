@@ -67,8 +67,7 @@
   </samp>
   <br>
 </div> 
-<img src="./claude-fu.gif" align="right" width="75" alt="claude-fu"/>
-<br>
+<img src="./claude-fu.gif" align="right" width="70" alt="claude-fu"/>
 <br>
 
 [![](https://komarev.com/ghpvc/?username=1prasadjr&icon=0&color=7f00ff)](https://visitcount.itsvg.in) 

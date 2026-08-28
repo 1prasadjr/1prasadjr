@@ -12,6 +12,19 @@
 <br>
 <br>
 <br>
+<img src="./hd-stats.svg" width="800" alt="stats"/>
+<div align="center">
+  <br>
+  <img src="./stats.svg" width="700" alt="Contributions in the last year"/>
+  <br>
+  <br>
+  <img src="./streak.svg" width="700" alt="Current and longest streak"/>
+  <br>
+  <br>
+  <img src="./langs.svg" width="700" alt="Top languages by bytes and by repo"/>
+  <br>
+  <br>
+</div>
 <img src="./hd-projects.svg" width="800" alt="projects"/>
 <div align="center">
   <br>
@@ -41,19 +54,6 @@
     </tbody>
   </table>
   </samp>
-  <br>
-  <br>
-</div>
-<img src="./hd-stats.svg" width="800" alt="stats"/>
-<div align="center">
-  <br>
-  <img src="./stats.svg" width="700" alt="Contributions in the last year"/>
-  <br>
-  <br>
-  <img src="./streak.svg" width="700" alt="Current and longest streak"/>
-  <br>
-  <br>
-  <img src="./langs.svg" width="700" alt="Top languages by bytes and by repo"/>
   <br>
   <br>
 </div>

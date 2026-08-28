@@ -8,7 +8,7 @@
 <br>
 <br>
 <img src="./hd-stack.svg" width="800" alt="stack"/>
-<big><samp>Javascript &nbsp; Typescript &nbsp; Python &nbsp; ReactJS &nbsp; NodeJS &nbsp; Typescript &nbsp; RestAPI &nbsp; PostgreSQL &nbsp; Vector DB &nbsp; Vercel &nbsp; AWS &nbsp; GCP &nbsp; Git</samp></big>
+<samp>Javascript &nbsp; Typescript &nbsp; Python &nbsp; ReactJS &nbsp; NodeJS &nbsp; Langchain &nbsp; RestAPI &nbsp; PostgreSQL &nbsp; Vector DB &nbsp; Vercel &nbsp; AWS &nbsp; GCP &nbsp; Git</samp>
 <br>
 <br>
 <br>
@@ -16,7 +16,7 @@
 <div align="center">
   <br>
   <samp>
-  <table>
+  <table border="0" rules="none" cellspacing="10">
     <thead>
       <tr>
         <th align="left">Project</th>
@@ -48,9 +48,6 @@ surveillance to metadata pipeline to locate & action missing profiles</td>
   <br>
   <br>
 </div>
-<br>
-<br>
-<br>
 <img src="./hd-stats.svg" width="800" alt="stats"/>
 <div align="center">
   <br>

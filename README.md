@@ -1,6 +1,10 @@
 <samp>Parallel Universe :)</samp>
 
-<p align="center"> <br><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&pause=1000&color=7f00ff&center=true&vCenter=true&width=280&lines=Prasad+Jr." alt="prasad jr" /></a><br> <samp>AIE | SDE</samp> </p>
+<p align="center"> <br><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&pause=1000&color=7f00ff&center=true&vCenter=true&width=280&lines=Prasad+Jr." alt="prasad jr" /></a><div align="center">
+  <h3>
+    <samp>AIE | SDE</samp>
+  </h3>
+</div> </p>
 
 <img src="./hd-about.svg" width="800" alt="about"/>
 <div align="left">

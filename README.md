@@ -1,5 +1,4 @@
 <samp>Parallel Universe :)</samp>
-
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&pause=1000&color=7f00ff&center=true&vCenter=true&width=280&lines=Prasad+Jr." alt="prasad jr"><div align="center">
   <h3>
     <samp>AIE | SDE</samp>
@@ -67,9 +66,10 @@
   </table>
   </samp>
   <br>
-  <br>
-</div>
+</div> 
+<img src="./claude-fu.gif" align="right" width="75" alt="claude-fu"/>
+<br>
+<br>
 
----
-[![](https://komarev.com/ghpvc/?username=1prasadjr&icon=0&color=7f00ff)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=1prasadjr&icon=0&color=7f00ff)](https://visitcount.itsvg.in) 
 

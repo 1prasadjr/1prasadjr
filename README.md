@@ -8,7 +8,46 @@
 <br>
 <br>
 <img src="./hd-stack.svg" width="800" alt="stack"/>
-<samp>Javascript &nbsp; Typescript &nbsp; Python &nbsp; ReactJS &nbsp; NodeJS &nbsp; RestAPI &nbsp; PostgreSQL &nbsp; Vector DB &nbsp; Vercel &nbsp; AWS &nbsp; GCP &nbsp; Git</samp>
+<big><samp>Javascript &nbsp; Typescript &nbsp; Python &nbsp; ReactJS &nbsp; NodeJS &nbsp; Typescript &nbsp; RestAPI &nbsp; PostgreSQL &nbsp; Vector DB &nbsp; Vercel &nbsp; AWS &nbsp; GCP &nbsp; Git</samp></big>
+<br>
+<br>
+<br>
+<img src="./hd-projects.svg" width="800" alt="projects"/>
+<div align="center">
+  <br>
+  <samp>
+  <table>
+    <thead>
+      <tr>
+        <th align="left">Project</th>
+        <th align="left">Major Stack</th>
+        <th align="left">Overview</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/1prasadjr/AegisWall.git">AegisWall</a></td>
+        <td>TypeScript · Node.js · PostgreSQL · OPA</td>
+        <td>Non-bypassable execution governance for AI agents. Every action authorized against live authority, policy, and identity — never agent intent.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/1prasadjr/MeetMind-AI.git">Meetmind AI</a></td>
+        <td>Python · LangChain · ChromaDB · Sarvam AI </td>
+        <td>3-phase modular pipeline dual-path ASR-RAG with hybrid local/cloud
+transcription routing for audio lingual switch.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/1prasadjr/FindXVision.git">FindxVision</a></td>
+        <td>MERN · Python · Socket.io · OpenCV · Twilio</td>
+        <td> Intelligence hub for official authorities with real-time 
+surveillance to metadata pipeline to locate & action missing profiles</td>
+      </tr>
+    </tbody>
+  </table>
+  </samp>
+  <br>
+  <br>
+</div>
 <br>
 <br>
 <br>

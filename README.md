@@ -16,31 +16,27 @@
 <div align="center">
   <br>
   <samp>
-  <table border="0" rules="none" cellspacing="10">
-    <thead>
-      <tr>
-        <th align="left">Project</th>
-        <th align="left">Major Stack</th>
-        <th align="left">Overview</th>
-      </tr>
-    </thead>
+  <table style="border-collapse: collapse; width: 100%; max-width: 800px; margin: 0 auto;">
     <tbody>
-      <tr>
-        <td><a href="https://github.com/1prasadjr/AegisWall.git">AegisWall</a></td>
-        <td>TypeScript · Node.js · PostgreSQL · OPA</td>
-        <td>Non-bypassable execution governance for AI agents. Every action authorized against live authority, policy, and identity — never agent intent.</td>
+      <tr style="border-bottom: 1px solid rgba(127,0,255,0.15);">
+        <td style="padding: 12px 10px;"><b>Project</b></td>
+        <td style="padding: 12px 10px;"><b>Major Stack</b></td>
+        <td style="padding: 12px 10px;"><b>Overview</b></td>
       </tr>
-      <tr>
-        <td><a href="https://github.com/1prasadjr/MeetMind-AI.git">Meetmind AI</a></td>
-        <td>Python · LangChain · ChromaDB · Sarvam AI </td>
-        <td>3-phase modular pipeline dual-path ASR-RAG with hybrid local/cloud
-transcription routing for audio lingual switch.</td>
+      <tr style="border-bottom: 1px solid rgba(127,0,255,0.15);">
+        <td style="padding: 12px 10px;"><a href="https://github.com/1prasadjr/AegisWall.git">AegisWall</a></td>
+        <td style="padding: 12px 10px;">TypeScript · Node.js · PostgreSQL · OPA</td>
+        <td style="padding: 12px 10px;">Non-bypassable execution governance for AI agents. Every action authorized against live authority, policy, and identity — never agent intent.</td>
       </tr>
-      <tr>
-        <td><a href="https://github.com/1prasadjr/FindXVision.git">FindxVision</a></td>
-        <td>MERN · Python · Socket.io · OpenCV · Twilio</td>
-        <td> Intelligence hub for official authorities with real-time 
-surveillance to metadata pipeline to locate & action missing profiles</td>
+      <tr style="border-bottom: 1px solid rgba(127,0,255,0.15);">
+        <td style="padding: 12px 10px;"><a href="https://github.com/1prasadjr/MeetMind-AI.git">Meetmind AI</a></td>
+        <td style="padding: 12px 10px;">Python · LangChain · ChromaDB · Sarvam AI</td>
+        <td style="padding: 12px 10px;">3-phase modular pipeline dual-path ASR-RAG with hybrid local/cloud transcription routing for audio lingual switch.</td>
+      </tr>
+      <tr style="border-bottom: 1px solid rgba(127,0,255,0.15);">
+        <td style="padding: 12px 10px;"><a href="https://github.com/1prasadjr/FindXVision.git">FindxVision</a></td>
+        <td style="padding: 12px 10px;">MERN · Python · Socket.io · OpenCV · Twilio</td>
+        <td style="padding: 12px 10px;">Intelligence hub for official authorities with real-time surveillance to metadata pipeline to locate &amp; action missing profiles</td>
       </tr>
     </tbody>
   </table>
